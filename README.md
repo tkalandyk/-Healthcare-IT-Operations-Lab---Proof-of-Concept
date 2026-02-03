@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Feb 2, 2026, 09_38_03 PM" src="https://github.com/user-attachments/assets/14d6108e-7b68-40cc-b15c-df7a53b8632b" />
+
 # Healthcare IT Operations Lab - Proof of Concept
 
 > **A containerized demonstration of Healthcare IT + ITSM + Automation + GRC Compliance**
