@@ -113,33 +113,22 @@ This project showcases real-world healthcare IT operations skills:
 
 <img width="1832" height="509" alt="image" src="https://github.com/user-attachments/assets/f3143eb2-e7aa-4f80-990f-dae786f38b1c" />
 
-
-*The money shot - shows automated incident detection and ticket creation*
-
-Expected output:
-```
-✗ OpenEMR is DOWN - Connection error
-WARNING - OpenEMR is DOWN - Creating incident ticket
-Subject: [P1] OpenEMR Service Outage
-Impact: Clinical staff cannot access patient records
-Priority: P1 - Critical
-```
-
 ---
 
 ## 📸 Component 4: Compliance & Documentation
 
 ### Screenshot 10: GRC Control Mapping
-**📷 PASTE SCREENSHOT HERE: Open evidence/control-mapping.md showing HIPAA controls**
+
+<img width="1200" height="895" alt="image" src="https://github.com/user-attachments/assets/2d1396b6-3ab2-49a8-9cbf-66c30e7b2b97" />
 
 *Demonstrates understanding of healthcare compliance requirements*
 
 ---
 
 ### Screenshot 11: Project Documentation
-**📷 PASTE SCREENSHOT HERE: README.md or folder structure showing comprehensive docs**
 
-*Shows professional documentation and organization*
+<img width="1097" height="1008" alt="image" src="https://github.com/user-attachments/assets/5f5d543b-4140-4284-80f3-504151da170a" />
+
 
 ---
 
@@ -227,23 +216,6 @@ def check_health(url):
 
 ---
 
-## 📚 Repository Contents
-
-```
-healthcare-it-lab/
-├── compose/              # Docker infrastructure
-│   └── docker-compose.yml
-├── bridge/               # Monitoring automation
-│   ├── ticket_bridge.py
-│   └── synthetic-data.json
-├── scenarios/            # Use case documentation
-├── evidence/             # GRC compliance mapping
-├── README.md            # Setup instructions
-└── PROOF-OF-CONCEPT.md  # This file
-```
-
----
-
 ## 🎓 What I Learned
 
 ### Technical Growth
@@ -293,28 +265,6 @@ If I were to expand this project:
 
 ---
 
-## 📞 Contact & Links
-
-**GitHub Repository:** [Your GitHub URL]  
-**LinkedIn:** [Your LinkedIn URL]  
-**Portfolio:** [Your Portfolio URL]
-
----
-
-## ✅ Verification
-
-To verify this project is functional:
-
-1. Clone the repository
-2. Run `docker compose up -d` in the compose directory
-3. Access OpenEMR at http://localhost:8081 (admin/pass)
-4. Access osTicket at http://localhost:8080/scp/ (ostadmin/admin123)
-5. Run the bridge script: `cd bridge && python ticket_bridge.py --dry-run`
-
-**All components are containerized and run locally - no cloud dependencies required.**
-
----
-
 ## 📄 License
 
 This is a portfolio/demonstration project. All healthcare data is synthetic and fictional.
@@ -323,6 +273,3 @@ This is a portfolio/demonstration project. All healthcare data is synthetic and 
 - osTicket: GNU GPL
 - Custom automation code: MIT License
 
----
-
-**Built with ❤️ to demonstrate Healthcare IT + DevOps + Automation skills**
