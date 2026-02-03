@@ -52,7 +52,7 @@ This project showcases real-world healthcare IT operations skills:
 <img width="746" height="539" alt="image" src="https://github.com/user-attachments/assets/bc5b5f5e-edfa-43a3-b108-fefd1399e189" />
 
 
-*Demonstrates 10 synthetic patients loaded with realistic demographics*
+10 synthetic patients loaded 
 
 ---
 
@@ -60,7 +60,6 @@ This project showcases real-world healthcare IT operations skills:
 
 <img width="1259" height="657" alt="image" src="https://github.com/user-attachments/assets/ea748017-61bf-4ac8-9e5b-83ddd715e7dc" />
 
-*Shows full EMR functionality - this is what clinical staff use daily*
 
 ---
 
@@ -70,7 +69,6 @@ This project showcases real-world healthcare IT operations skills:
 
 <img width="1269" height="842" alt="image" src="https://github.com/user-attachments/assets/e00229b9-e5f7-4425-be30-479480c4b130" />
 
-*Shows the IT ticketing system is operational*
 
 ---
 
@@ -78,7 +76,6 @@ This project showcases real-world healthcare IT operations skills:
 
 <img width="1239" height="897" alt="image" src="https://github.com/user-attachments/assets/b30f44f7-48fd-4b1a-a656-a5e583726fec" />
 
-*Demonstrates the help desk interface where IT staff manage incidents*
 
 ---
 
@@ -86,7 +83,6 @@ This project showcases real-world healthcare IT operations skills:
 
 <img width="1173" height="454" alt="image" src="https://github.com/user-attachments/assets/85a58a46-b97e-4c19-bcca-650993c2c036" />
 
-*Shows where support tickets are tracked and managed*
 
 ---
 
@@ -96,7 +92,7 @@ This project showcases real-world healthcare IT operations skills:
 
 <img width="815" height="259" alt="image" src="https://github.com/user-attachments/assets/f4b2457a-965d-4351-ae29-063d52e0b512" />
 
-*Shows the monitoring script detecting healthy status*
+
 
 ---
 
@@ -104,8 +100,6 @@ This project showcases real-world healthcare IT operations skills:
 
 <img width="1464" height="150" alt="image" src="https://github.com/user-attachments/assets/b81d7bb4-9d22-483d-ad33-9b859a92f59f" />
 
-
-*Demonstrates stopping OpenEMR to simulate a real outage*
 
 ---
 
@@ -120,8 +114,6 @@ This project showcases real-world healthcare IT operations skills:
 ### Screenshot 10: GRC Control Mapping
 
 <img width="1200" height="895" alt="image" src="https://github.com/user-attachments/assets/2d1396b6-3ab2-49a8-9cbf-66c30e7b2b97" />
-
-*Demonstrates understanding of healthcare compliance requirements*
 
 ---
 
