@@ -110,7 +110,9 @@ This project showcases real-world healthcare IT operations skills:
 ---
 
 ### Screenshot 9: Automated Detection & Ticket Creation
-**📷 PASTE SCREENSHOT HERE: Terminal showing bridge script detecting outage and creating ticket**
+
+<img width="1832" height="509" alt="image" src="https://github.com/user-attachments/assets/f3143eb2-e7aa-4f80-990f-dae786f38b1c" />
+
 
 *The money shot - shows automated incident detection and ticket creation*
 
